@@ -1,0 +1,11 @@
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background: url("https://images.unsplash.com/photo-1592961091585-5def60a8e5da?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1049&q=80")
+    no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
